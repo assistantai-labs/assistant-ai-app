@@ -8,6 +8,7 @@ app.use(express.json());
 
 app.use('/api/tasks', require('./api/tasks'));
 app.use('/api/instruction', require('./api/instructions'));
+app.use('/api/goals', require('./api/goals'));
 
 mongoose.connect('mongodb://localhost:27017/assistant-ai', {
   useNewUrlParser: true,
