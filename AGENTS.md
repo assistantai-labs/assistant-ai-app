@@ -346,8 +346,7 @@ npx expo start
 For design logic, IP matters, or strategic decisions:
 **Colin Allen Costello**
 Email: [colincostelloassistant@gmail.com](mailto:colincostelloassistant@gmail.com)
-Phone: 708-915-0989
-Location: Mokena, IL, USA
+
 
 ---
 
